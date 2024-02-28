@@ -1,5 +1,4 @@
 - Hi, I’m @Spy12150
-- Learning python
 
 
 <!---
